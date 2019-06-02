@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Matrículas</string>
+    <string name="txt_message" translatable="false">No Text Available</string>
+    <string name="permission_camera_rationale" translatable="false">Access to the camera is needed for detection</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="inicioSesion">Iniciar Sesión</string>
+    <string name="Login" translatable="false">Login</string>
+    <string name="usuario">Usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="alerta">Nivel de alerta:</string>
+    <string name="alertaUno">Nivel 1</string>
+    <string name="alertaDos">Nivel 2</string>
+    <string name="alertaTres">Nivel 3</string>
+    <string name="alertaCuatro">Nivel 4</string>
+    <string name="alertaCinco">Nivel 5</string>
+    <string name="escanear">Escanear</string>
+    <string name="menuPrincipal">Menú Principal</string>
+    <string name="camara">Analizando Matrículas</string>
+    <string name="consulta">Consulta de Matrículas</string>
+    <string name="volver">Volver</string>
+    <string name="matriculasInfractoras">Matrículas Infractoras</string>
+    <string-array name="spinnerAlerta">
+        <item>@string/alertaUno</item>
+        <item>@string/alertaDos</item>
+        <item>@string/alertaTres</item>
+        <item>@string/alertaCuatro</item>
+        <item>@string/alertaCinco</item>
+    </string-array>
+    <string name="inicioOk">Ha iniciado sesión correctamente</string>
+    <string name="inicioNoOk">Usuario y/o contraseña incorrecto</string>
+    <string name="matricula">Matrícula</string>
+    <string name="infraccion">Infracción</string>
+    <string name="fechaInfraccion">Fecha Infracción</string>
+    <string name="propietario">Propietario</string>
+    <string name="dni">DNI</string>
+    <string name="telefono">Teléfono</string>
+    <string name="direccion">Dirección</string>
+    <string name="comprobar">Comprobando...</string>
+    <string name="errorConexion">Error de Conexión</string>
+    <string name="errorParsing">Ocurrió un error de Parsing Json</string>
+
+</resources>

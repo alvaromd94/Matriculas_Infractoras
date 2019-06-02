@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Matrículas</string>
+    <string name="alerta">Alert level:</string>
+    <string name="alertaCinco">Level 5</string>
+    <string name="alertaCuatro">Level 4</string>
+    <string name="alertaDos">Level 2</string>
+    <string name="alertaTres">Level 3</string>
+    <string name="alertaUno">Level 1</string>
+    <string name="camara">Analysing license plates</string>
+    <string name="comprobar">Checking...</string>
+    <string name="consulta">License Plates</string>
+    <string name="contraseña">Password</string>
+    <string name="direccion">Address</string>
+    <string name="dni">ID</string>
+    <string name="errorConexion">Conection Error</string>
+    <string name="errorParsing">Parsing Error</string>
+    <string name="escanear">Scan</string>
+    <string name="infraccion">Infringement</string>
+    <string name="fechaInfraccion">Infringement Date</string>
+    <string name="usuario">User</string>
+    <string name="inicioNoOk">Wrong user or password</string>
+    <string name="inicioOk">Login successfully</string>
+    <string name="inicioSesion">Login</string>
+    <string name="limpiar">Clean</string>
+    <string name="matricula">License Plates</string>
+    <string name="matriculasInfractoras">Infringement License Plates</string>
+    <string name="menuPrincipal">Main Menu</string>
+    <string name="propietario">Owner</string>
+    <string name="telefono">Telephone</string>
+    <string name="volver">Go Back</string>
+</resources>
