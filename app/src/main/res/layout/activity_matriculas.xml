@@ -20,18 +20,19 @@ android:padding="16dp"
         >
 
         <TextView
+            android:id="@+id/matricula"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/matricula"
             android:layout_alignParentTop="true"
-            android:textSize="30sp"
-            />
+            android:textColor="@color/primary_darker"
+            android:textSize="30sp" />
 
         <TextView
             android:id="@+id/infraccion"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@+id/matricula"
+            android:textColor="@color/primary_darker"
             android:textSize="18sp" />
 
     </RelativeLayout>
