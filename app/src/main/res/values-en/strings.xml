@@ -29,4 +29,6 @@
     <string name="propietario">Owner</string>
     <string name="telefono">Telephone</string>
     <string name="volver">Go Back</string>
+    <string name="infraccionConsulta">Infringement:</string>
+    <string name="matriculaConsulta">Matrícula</string>
 </resources>
