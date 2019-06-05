@@ -127,7 +127,7 @@ public class ConsultaServidor extends AppCompatActivity {
             }else{
                 Toast.makeText(
                         getBaseContext(),
-                        getResources().getString(R.string.errorParsing),
+                        getResources().getString(R.string.errorServidor),
                         Toast.LENGTH_SHORT)
                         .show();
             }

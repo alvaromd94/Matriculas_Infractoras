@@ -7,41 +7,15 @@
     android:padding="10dp"
     tools:context=".MenuPrincipalActivity">
 
-    <TextView
-        android:id="@+id/titulo"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginStart="13dp"
-        android:layout_marginTop="223dp"
-        android:layout_marginEnd="10dp"
-        android:layout_marginBottom="10dp"
-        android:text="@string/alerta"
-        android:textSize="30sp"
-        android:textStyle="bold" />
-
-    <Spinner
-        android:id="@+id/spinnerAlerta"
-        style="@style/AppTheme"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_marginStart="38dp"
-        android:layout_marginTop="232dp"
-        android:layout_toEndOf="@+id/titulo"
-        android:textSize="30sp" />
-
     <Button
         android:id="@+id/btnEscanear"
         android:layout_width="392dp"
         android:layout_height="111dp"
-        android:layout_alignParentBottom="true"
-        android:layout_marginTop="150sp"
-        android:layout_marginBottom="155dp"
+        android:layout_centerInParent="true"
+        android:background="@color/primary"
         android:drawableLeft="@android:drawable/ic_menu_camera"
         android:onClick="clickEscanear"
         android:text="@string/escanear"
-        android:textSize="20sp"
-        android:textColor="@color/primary"/>
+        android:textColor="@color/primary_darker"
+        android:textSize="20sp" />
 </RelativeLayout>

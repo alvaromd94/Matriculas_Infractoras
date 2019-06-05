@@ -14,7 +14,6 @@
     <string name="direccion">Address</string>
     <string name="dni">ID</string>
     <string name="errorConexion">Conection Error</string>
-    <string name="errorParsing">Parsing Error</string>
     <string name="escanear">Scan</string>
     <string name="infraccion">Infringement</string>
     <string name="fechaInfraccion">Infringement Date</string>
@@ -31,4 +30,5 @@
     <string name="volver">Go Back</string>
     <string name="infraccionConsulta">Infringement:</string>
     <string name="matriculaConsulta">Matrícula</string>
+    <string name="errorServidor">Server error</string>
 </resources>

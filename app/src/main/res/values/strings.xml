@@ -39,6 +39,6 @@
     <string name="direccion">Dirección:</string>
     <string name="comprobar">Comprobando...</string>
     <string name="errorConexion">Error de Conexión</string>
-    <string name="errorParsing">Ocurrió un error de Parsing Json</string>
+    <string name="errorServidor">Ocurrió un error al consultar al servidor</string>
 
 </resources>
