@@ -31,4 +31,5 @@
     <string name="infraccionConsulta">Infringement:</string>
     <string name="matriculaConsulta">Matrícula</string>
     <string name="errorServidor">Server error</string>
+    <string name="datosPersonales">Personal Information</string>
 </resources>

@@ -29,7 +29,7 @@
 
         <activity
             android:name=".ConsultaServidor"
-            android:label="ConsultaServidor"
+            android:label="@string/datosPersonales"
             android:theme="@style/PantallasThem"/>
         <activity android:name=".LoginActivity" android:theme="@style/AppTheme2" >
             <intent-filter>

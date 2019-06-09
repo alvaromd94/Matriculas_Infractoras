@@ -40,5 +40,6 @@
     <string name="comprobar">Comprobando...</string>
     <string name="errorConexion">Error de Conexión</string>
     <string name="errorServidor">Ocurrió un error al consultar al servidor</string>
+    <string name="datosPersonales">Datos Personales</string>
 
 </resources>
